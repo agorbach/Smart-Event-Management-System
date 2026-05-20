@@ -64,4 +64,8 @@ Refactor the dashboard into reusable components.
 - Working with AI
 - Refactoring UI
 
+---
 
+## Screenshots
+
+(Add screenshots here)
